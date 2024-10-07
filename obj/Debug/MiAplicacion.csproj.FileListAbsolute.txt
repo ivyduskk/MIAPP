@@ -1,0 +1,13 @@
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\bin\Debug\MiAplicacion.exe.config
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\bin\Debug\MiAplicacion.exe
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\bin\Debug\MiAplicacion.pdb
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.csproj.AssemblyReference.cache
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.Form1.resources
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.Form2.resources
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.Form3.resources
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.Form4.resources
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.Properties.Resources.resources
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.csproj.GenerateResource.cache
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.exe
+C:\Users\dahia\source\repos\MiAplicacion\MiAplicacion\obj\Debug\MiAplicacion.pdb
